@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T07:38:05.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="jOBomspD0QVQfPrxW_-H" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T09:25:26.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="0oA1YSQFtwhnv32oHapi" version="21.6.3" type="github">
   <diagram name="Page-1" id="S8d39ZV7wlIzWOerNx4K">
-    <mxGraphModel dx="3213" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3430" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="heyuQlDbMCdiqp2wAGg6-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1820" y="270" width="580" height="350" as="geometry" />
+          <mxGeometry x="-1820" y="270" width="580" height="220" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1460" y="-130" width="220" height="320" as="geometry" />
@@ -278,16 +278,13 @@
           <mxGeometry x="-1650" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-15" value="Arduino Mega2560 R3 - B3H8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1590" y="370.11" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1590" y="289.11" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-16" value="3 cảm biến khoảng cách" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1804" y="501" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="heyuQlDbMCdiqp2wAGg6-17" value="MCP2515" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1590" y="290.11" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1804" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-18" value="Cảm biến AGV" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1654" y="501" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1654" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-19" value="MCU điều khiển động cơ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1420" y="30" width="120" height="60" as="geometry" />
@@ -299,14 +296,14 @@
           <mxGeometry x="-1420" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-22" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1514" y="501" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1514" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-24" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1750" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="heyuQlDbMCdiqp2wAGg6-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="heyuQlDbMCdiqp2wAGg6-17" edge="1">
+        <mxCell id="heyuQlDbMCdiqp2wAGg6-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1550" y="340" as="sourcePoint" />
+            <mxPoint x="-1560" y="290.11000000000035" as="sourcePoint" />
             <mxPoint x="-1560" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -331,22 +328,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="heyuQlDbMCdiqp2wAGg6-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="heyuQlDbMCdiqp2wAGg6-15" target="heyuQlDbMCdiqp2wAGg6-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1680" y="400" as="sourcePoint" />
-            <mxPoint x="-1630" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="heyuQlDbMCdiqp2wAGg6-16" target="heyuQlDbMCdiqp2wAGg6-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1710" y="460" as="sourcePoint" />
-            <mxPoint x="-1660" y="410" as="targetPoint" />
+            <mxPoint x="-1710" y="379" as="sourcePoint" />
+            <mxPoint x="-1660" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="heyuQlDbMCdiqp2wAGg6-18" target="heyuQlDbMCdiqp2wAGg6-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1470" y="460" as="sourcePoint" />
-            <mxPoint x="-1420" y="410" as="targetPoint" />
+            <mxPoint x="-1470" y="379" as="sourcePoint" />
+            <mxPoint x="-1420" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="heyuQlDbMCdiqp2wAGg6-20" target="heyuQlDbMCdiqp2wAGg6-19" edge="1">
@@ -371,7 +362,7 @@
           <mxGeometry x="-1380" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-45" value="module cảm biến" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1580" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1345" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-46" value="CAN BUS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1630" y="215" width="60" height="30" as="geometry" />
@@ -456,22 +447,25 @@
           <mxGeometry x="-630" y="561" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VQU1veAsZoqTci75MlFR-12" value="con quay hồi chuyển" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1375.24" y="501" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1375.24" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQU1veAsZoqTci75MlFR-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="heyuQlDbMCdiqp2wAGg6-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1420" y="500" as="sourcePoint" />
-            <mxPoint x="-1530" y="430" as="targetPoint" />
+            <mxPoint x="-1420" y="419" as="sourcePoint" />
+            <mxPoint x="-1530" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VQU1veAsZoqTci75MlFR-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="heyuQlDbMCdiqp2wAGg6-15" target="VQU1veAsZoqTci75MlFR-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1460" y="430" as="sourcePoint" />
-            <mxPoint x="-1410" y="380" as="targetPoint" />
+            <mxPoint x="-1460" y="349" as="sourcePoint" />
+            <mxPoint x="-1410" y="299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VQU1veAsZoqTci75MlFR-19" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Các IC cần thiết&amp;nbsp;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;2 MCP2515 bộ chuyển đổi CAN (chưa có)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 cảm biến khoảng cách da điểm (có rồi)&lt;/span&gt;&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;Cảm biến AGV line 8-16 (chưa có)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;RFID reader (chưa)&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;2 motor + bánh xe + driver motor (Chưa)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 Adruino SAM&amp;nbsp;&lt;/span&gt;&amp;nbsp;(có rồi)&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 Cảm biến gia tốc GY- 521 (con xoay hồi chuyển) (chưa có&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;spacingBottom=5;horizontal=1;verticalAlign=top;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="722.5" width="490" height="207.5" as="geometry" />
+        <mxCell id="VQU1veAsZoqTci75MlFR-19" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Các IC cần thiết&amp;nbsp;&lt;/h1&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 cảm biến khoảng cách da điểm (có rồi)&lt;/span&gt;&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;Cảm biến AGV line 8-16 (chưa có)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;RFID reader (chưa)&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;2 motor + bánh xe + driver motor (Chưa)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 Adruino SAM&amp;nbsp;&lt;/span&gt;&amp;nbsp;(có rồi)&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 Cảm biến gia tốc GY- 521 (con xoay hồi chuyển) (chưa có&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;spacingBottom=5;horizontal=1;verticalAlign=top;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-259" y="722.5" width="490" height="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VQU1veAsZoqTci75MlFR-21" value="Stepper điều khiển, MCU, ....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="720" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
