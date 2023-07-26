@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T09:16:09.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="diNbnjUiaqCva9hIqfcN" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T02:22:27.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="dthZl8W-JHVkCmGA9pm2" version="21.6.5" type="github">
   <diagram name="Page-1" id="S8d39ZV7wlIzWOerNx4K">
-    <mxGraphModel dx="3061" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2918" dy="1247" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,10 +462,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VQU1veAsZoqTci75MlFR-19" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Các IC cần thiết&amp;nbsp;&lt;/h1&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 cảm biến khoảng cách da điểm (có rồi)&lt;/span&gt;&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;Cảm biến AGV line 8-16 (chưa có)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;RFID reader (chưa)&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;2 motor + bánh xe + driver motor (Chưa)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 Adruino SAM&amp;nbsp;&lt;/span&gt;&amp;nbsp;(có rồi)&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial; font-size: 17px;&quot;&gt;1 Cảm biến gia tốc GY- 521 (con xoay hồi chuyển) (chưa có&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;spacingBottom=5;horizontal=1;verticalAlign=top;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-259" y="722.5" width="490" height="207.5" as="geometry" />
+          <mxGeometry x="-207" y="445" width="490" height="207.5" as="geometry" />
         </mxCell>
         <mxCell id="Jmr8jj_tF-uADDxsxyC8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-555" y="1470" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-2" value="cảm biến AGV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="655.5" width="363" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-3" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="23" y="692.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-4" value="15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="361" y="692.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-5" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="173" y="692.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-7" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="692.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVTYm9ZKjqi1sZmf_ZAr-3" target="NVTYm9ZKjqi1sZmf_ZAr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94" y="789.5" as="sourcePoint" />
+            <mxPoint x="144" y="739.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271" y="707.08" as="sourcePoint" />
+            <mxPoint x="361" y="707.08" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
