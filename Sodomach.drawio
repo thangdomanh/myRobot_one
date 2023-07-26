@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T02:22:27.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="dthZl8W-JHVkCmGA9pm2" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T02:40:08.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="4fUj1u4wSEewedFQ4Cdy" version="21.6.5" type="github">
   <diagram name="Page-1" id="S8d39ZV7wlIzWOerNx4K">
     <mxGraphModel dx="2918" dy="1247" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -493,6 +493,15 @@
             <mxPoint x="271" y="707.08" as="sourcePoint" />
             <mxPoint x="361" y="707.08" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-10" value="motor 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="761" width="118" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-11" value="motor 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="761" width="118" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="NVTYm9ZKjqi1sZmf_ZAr-12" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="616.5" width="124" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
