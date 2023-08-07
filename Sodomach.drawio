@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T02:00:09.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="6Wy-8K7EVrBN8vfLm-7F" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T04:43:18.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="KHlQBqzb2vBQeW8Uh3pr" version="21.6.5" type="github">
   <diagram name="Page-1" id="S8d39ZV7wlIzWOerNx4K">
-    <mxGraphModel dx="3213" dy="1410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3525" dy="1582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raspberrypi.vn/wp-content/uploads/2023/05/Orange-Pi-5B-10.png;" parent="1" vertex="1">
-          <mxGeometry x="-1937" y="-808.05" width="257.34" height="230.11" as="geometry" />
+          <mxGeometry x="-2191.17" y="-838" width="209.13" height="187" as="geometry" />
         </mxCell>
         <mxCell id="heyuQlDbMCdiqp2wAGg6-7" value="Orange pi 5b" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1787" y="-508" width="120" height="60" as="geometry" />
@@ -696,6 +696,15 @@
             <mxPoint x="-840" y="320" as="sourcePoint" />
             <mxPoint x="-790" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DSUsWhVnz1zjJuyvs2Y5-12" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-a76de56f-7fff-c1d6-573c-abf9aea14754&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:404px;height:280px;&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4FJFtytWmetmaXLCNKX1oC2wujeMVAr00vmJWPfLq7eW3K0WfO-DcS3gJuDieijdBmd3yGMZlWR6Eui0Sb_P6gzIfSYSkm2v724x1wYVl2HzG7vWaFpPRLJJ83b-maIaQGMQinanQR_3&quot; width=&quot;404&quot; height=&quot;280&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2156.000244140625" y="875.0038671875" width="432" height="306" as="geometry" />
+        </mxCell>
+        <mxCell id="DSUsWhVnz1zjJuyvs2Y5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1385" y="1031" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSUsWhVnz1zjJuyvs2Y5-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1392" y="868" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
