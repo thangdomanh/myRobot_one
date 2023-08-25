@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T04:03:53.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="KAO9QKS1fO4UGWXZWLH4" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T04:24:21.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="kLCieS4AOpqbJl4huuff" version="21.6.8" type="github">
   <diagram name="Page-1" id="S8d39ZV7wlIzWOerNx4K">
-    <mxGraphModel dx="3635" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3934" dy="1792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -748,6 +748,11 @@
         <mxCell id="6AgcX082E_HssaPuE4u4-10" value="bit trái" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1426" y="1074" width="60" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="https://scontent.xx.fbcdn.net/v/t1.15752-9/368512849_2575362092615673_7841489756843416492_n.png?stp=dst-png_s720x720&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=aee45a&amp;_nc_ohc=lGSXRQc7AVQAX--skUd&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=03_AdTu0_eRxgKPAlbXw1y0T4DjAiopRStafVprn3_oDqLpBA&amp;oe=650FA771" link="https://scontent.xx.fbcdn.net/v/t1.15752-9/368512849_2575362092615673_7841489756843416492_n.png?stp=dst-png_s720x720&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=aee45a&amp;_nc_ohc=lGSXRQc7AVQAX--skUd&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=03_AdTu0_eRxgKPAlbXw1y0T4DjAiopRStafVprn3_oDqLpBA&amp;oe=650FA771" id="A5MBMboHykDR-bCMRo7P-1">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="-961.52001953125" y="1350.239990234375" width="550" height="94" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
